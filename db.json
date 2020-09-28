@@ -7,4 +7,12 @@
     }
     
   ]
+  ,
+  "prescriber2": [
+  {
+      "name": "docto2",
+      "category": "dentist",
+      "next_dispo": "2020-11-01T13:28:56.782Z"
+    }
+]
 }
