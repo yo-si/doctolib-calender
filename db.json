@@ -1,18 +1,40 @@
 {
-  "prescriber1": [
+  "Balakrishnan,Pronnamma": [
     {
-      "name": "docto1",
-      "category": "dentist",
-      "next_dispo": "2020-11-01T13:28:56.782Z"
+      "first name": "Balakrishnan",
+      "last name":"Pronnamma",
+      "category": "Hospital Nurse",
+      "availabilities": [
+        {
+          "date":"2020-10-12",
+          "slots":["2020-10-12T09:10:00.000+02:00","2020-10-12T09:15:00.000+02:00"],
+          "substitution":null
+        }
+        {
+          "date":"2020-10-14",
+          "slots":["2020-10-14T09:10:00.000+02:00","2020-10-14T09:15:00.000+02:00"],
+          "substitution":null
+        }
     }
     
   ]
   ,
-  "prescriber2": [
+  "Campo,Erma": [
   {
-      "name": "docto2",
-      "category": "dentist",
-      "next_dispo": "2020-11-01T13:28:56.782Z"
+      "first name": "Campo",
+      "last name":"Erma",
+      "category": "Hospital Nurse",
+        "availabilities": [
+        {
+          "date":"2020-10-12",
+          "slots":["2020-10-12T09:10:00.000+02:00","2020-10-12T09:15:00.000+02:00"],
+          "substitution":null
+        }
+        {
+          "date":"2020-10-14",
+          "slots":["2020-10-14T09:10:00.000+02:00","2020-10-14T09:15:00.000+02:00"],
+          "substitution":null
+        }
     }
 ]
 }
