@@ -1,29 +1,29 @@
 {
-  "Balakrishnan,Pronnamma": [
+  "Buffard, Valerie": [
     {
-      "first name": "Balakrishnan",
-      "last name":"Pronnamma",
-      "category": "Hospital Nurse",
+      "first name": "Buffard",
+      "last name":"Valerie",
+      "category": "Dermatologue",
       "availabilities": [
         {
-          "date":"2020-10-12",
-          "slots":["2020-10-12T09:10:00.000+02:00","2020-10-12T09:15:00.000+02:00"],
+          "date":"2020-10-08",
+          "slots":["2020-10-08T09:30:00.000+02:00"],
           "substitution":null
         },
         {
-          "date":"2020-10-14",
-          "slots":["2020-10-14T09:10:00.000+02:00","2020-10-14T09:15:00.000+02:00"],
+          "date":"2020-10-08",
+          "slots":["2020-10-08T11:15:00.000+02:00"],
           "substitution":null
         }]
     }
     
   ]
   ,
-  "Campo,Erma": [
+  "Raquel,Costa": [
   {
-      "first name": "Campo",
-      "last name":"Erma",
-      "category": "Hospital Nurse",
+      "first name": "Raquel",
+      "last name":"Costa",
+      "category": "Neurologue",
         "availabilities": [
         {
           "date":"2020-10-12",
